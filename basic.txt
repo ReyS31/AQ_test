@@ -1,0 +1,9 @@
+Candidate Name	: Reyhan Pratama
+Test Date	: 13 August 2023
+
+1. b
+2. c
+3. The difference is NULL is equal to none(has type like string, integer, etc) and UNDEFINED is equal to uninitialized or blank
+4. a
+5. moving carousels when clicking some element with "navnews" class
+6. d
